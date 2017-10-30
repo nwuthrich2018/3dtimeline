@@ -1,7 +1,9 @@
             Review
 
 -- Does it work properly/ do what it's supposed to?
--- Is it understandable?
+-- Are varaible declarations properly commented out?
+-- Are all functions, methods and classes documented?
+-- Does documented out code have an explanation?
 -- Is all of the code necessary?
 -- Is the code efficient?
 -- Is the documentation sufficient?
