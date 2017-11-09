@@ -37,7 +37,7 @@ public class TextBoxManager : MonoBehaviour
     {
         theText.text = textLines[currentLine];
 
-        if(Input.GetKeyDown(KeyCode.Return))  //allows user to cycle through text on billboard
+        if(Input.GetKeyDown(KeyCode.Keypad1))  //allows user to cycle through text on billboard
         {
             currentLine += 1;
         }

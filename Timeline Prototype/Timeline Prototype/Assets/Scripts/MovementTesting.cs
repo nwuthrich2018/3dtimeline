@@ -6,10 +6,11 @@ public class MovementTesting : MonoBehaviour {
 
 	public float speed;
 	private float actualSpeed;
-	void Update()
+
+    void Update()
 	{
 		if (Input.GetKey (KeyCode.LeftShift)) {
-			actualSpeed = speed * 4;
+			actualSpeed = speed * 5;
 		} else {
 			actualSpeed = speed;
 		}
