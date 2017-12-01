@@ -38,7 +38,7 @@ public class TextBoxManager : MonoBehaviour
 
             }
 
-            string query = "SELECT * FROM artifacts LIMIT 1";
+            string query = "SELECT * FROM philanthropytable WHERE Record_id = 212";
 
             //Create a list to store the result
             List<string>[] list = new List<string>[3];
