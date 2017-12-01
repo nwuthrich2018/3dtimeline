@@ -319,8 +319,11 @@ MonoBehaviour:
   date: {fileID: 89867620}
   description: {fileID: 933422193}
   image: {fileID: 78533744}
-  edwidge: {fileID: 21300000, guid: 050d3ca2628b775418a425469f4beef2, type: 3}
-  myrtleDeath: {fileID: 21300000, guid: 85082962a633dc24e9c9a88b6fa8f7c1, type: 3}
+  edwidge: {fileID: 21300000, guid: bea482b3f70cb1c4a91c21b12fedf3a3, type: 3}
+  myrtleDeath: {fileID: 21300000, guid: a3dabfde84323db4aba903046cc947f2, type: 3}
+  UnitedWay: {fileID: 21300000, guid: 1ae91a8b53189524bb690b0f6cd139fc, type: 3}
+  foxDonation: {fileID: 21300000, guid: 79b90679b06065f47bbfbc84c6b689f8, type: 3}
+  Surprises: {fileID: 21300000, guid: 21fae8aca30c704498c897be9ac27c3e, type: 3}
 --- !u!1 &465785096
 GameObject:
   m_ObjectHideFlags: 0

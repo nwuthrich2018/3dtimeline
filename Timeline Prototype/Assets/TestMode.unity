@@ -746,14 +746,44 @@ Prefab:
       propertyPath: m_FontData.m_FontSize
       value: 36
       objectReference: {fileID: 0}
+    - target: {fileID: 224241929487030788, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224241929487030788, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: 43.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114590066688939172, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_FontData.m_Alignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224199881849173802, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: 166
+      objectReference: {fileID: 0}
+    - target: {fileID: 224199881849173802, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: -2.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 224199881849173802, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: 325.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 224199881849173802, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: bbae36c097999a944987b8a4af1c8179, type: 2}
   m_IsPrefabParent: 0
---- !u!224 &492476377 stripped
-RectTransform:
-  m_PrefabParentObject: {fileID: 224950280511103986, guid: bbae36c097999a944987b8a4af1c8179,
-    type: 2}
-  m_PrefabInternal: {fileID: 492476376}
 --- !u!1 &492476378 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1522684473791080, guid: bbae36c097999a944987b8a4af1c8179,
@@ -915,7 +945,7 @@ Prefab:
         type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 9163789f826e17a469eb41bb22df3028, type: 2}
+      objectReference: {fileID: 2100000, guid: 409c6079e3748a9449e2dee9e848c266, type: 2}
     - target: {fileID: 114821045658807856, guid: 1996532406b04ae4db5287773c2d7616,
         type: 2}
       propertyPath: m_FontData.m_FontSize
@@ -934,13 +964,39 @@ Prefab:
     - target: {fileID: 114821045658807856, guid: 1996532406b04ae4db5287773c2d7616,
         type: 2}
       propertyPath: m_Text
-      value: Miss Myrtle E. Woldson Bequeaths Funds for Performing Arts center at
-        Gonzaga
+      value: Donation to United Way
       objectReference: {fileID: 0}
     - target: {fileID: 114406335014849872, guid: 1996532406b04ae4db5287773c2d7616,
         type: 2}
       propertyPath: m_Enabled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114821045658807856, guid: 1996532406b04ae4db5287773c2d7616,
+        type: 2}
+      propertyPath: m_FontData.m_Alignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224326897086881636, guid: 1996532406b04ae4db5287773c2d7616,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224326897086881636, guid: 1996532406b04ae4db5287773c2d7616,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: 53.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4655091653854808, guid: 1996532406b04ae4db5287773c2d7616, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -124.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4655091653854808, guid: 1996532406b04ae4db5287773c2d7616, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 343.65872
+      objectReference: {fileID: 0}
+    - target: {fileID: 4655091653854808, guid: 1996532406b04ae4db5287773c2d7616, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 3.6058893
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1996532406b04ae4db5287773c2d7616, type: 2}
@@ -1022,13 +1078,53 @@ Prefab:
     - target: {fileID: 114590066688939172, guid: bbae36c097999a944987b8a4af1c8179,
         type: 2}
       propertyPath: m_Text
-      value: "David Condon's Eulogy and \nnotes from\nMyrtle\n"
+      value: Surprises from Miss Woldson
       objectReference: {fileID: 0}
     - target: {fileID: 114590066688939172, guid: bbae36c097999a944987b8a4af1c8179,
         type: 2}
       propertyPath: m_FontData.m_FontSize
       value: 40
       objectReference: {fileID: 0}
+    - target: {fileID: 224241929487030788, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224241929487030788, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: 65.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 224199881849173802, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: 184.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 224199881849173802, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: -2.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 224199881849173802, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: 333.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 224199881849173802, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114590066688939172, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_FontData.m_Alignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 23611910506301042, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6644c46bfd35d3e4bbef84ad55c702b6, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: bbae36c097999a944987b8a4af1c8179, type: 2}
   m_IsPrefabParent: 0
@@ -1143,80 +1239,6 @@ Camera:
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
   m_StereoMirrorMode: 0
---- !u!1 &877543884
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
-  m_Component:
-  - component: {fileID: 877543885}
-  - component: {fileID: 877543887}
-  - component: {fileID: 877543886}
-  m_Layer: 5
-  m_Name: Text
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &877543885
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 877543884}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1507916885}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 264.5, y: -178.6}
-  m_SizeDelta: {x: 160, y: 30}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &877543886
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 877543884}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 10
-    m_MaxSize: 40
-    m_Alignment: 0
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: 
---- !u!222 &877543887
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 877543884}
 --- !u!1 &918207123
 GameObject:
   m_ObjectHideFlags: 0
@@ -1326,7 +1348,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 9a527a87e9ec30b4881722370faecc45, type: 2}
+  - {fileID: 2100000, guid: 4ea01ba0d9fb37e488ffb55b8733572d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1443,7 +1465,7 @@ Prefab:
     - target: {fileID: 114590066688939172, guid: bbae36c097999a944987b8a4af1c8179,
         type: 2}
       propertyPath: m_Text
-      value: Edwidge Woldson
+      value: Myrtle's gift to the Fox
       objectReference: {fileID: 0}
     - target: {fileID: 114590066688939172, guid: bbae36c097999a944987b8a4af1c8179,
         type: 2}
@@ -1454,7 +1476,42 @@ Prefab:
         type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 826944a235d1b914cb6f320af50be3cb, type: 2}
+      objectReference: {fileID: 2100000, guid: 73b6b32e79da03745874e380450ec252, type: 2}
+    - target: {fileID: 114590066688939172, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_FontData.m_Alignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224199881849173802, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224199881849173802, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: 177
+      objectReference: {fileID: 0}
+    - target: {fileID: 224199881849173802, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: -2.800003
+      objectReference: {fileID: 0}
+    - target: {fileID: 224199881849173802, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: 303.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 224241929487030788, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224241929487030788, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: 44.7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: bbae36c097999a944987b8a4af1c8179, type: 2}
   m_IsPrefabParent: 0
@@ -1981,11 +2038,7 @@ Prefab:
     - target: {fileID: 114590066688939172, guid: bbae36c097999a944987b8a4af1c8179,
         type: 2}
       propertyPath: m_Text
-      value: 'Philanthropist
-
-        Woldson dies
-
-        at 104'
+      value: Myrtle Woldson dies at age 104
       objectReference: {fileID: 0}
     - target: {fileID: 114590066688939172, guid: bbae36c097999a944987b8a4af1c8179,
         type: 2}
@@ -1996,15 +2049,75 @@ Prefab:
         type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: bd50f590576496e43ba39cce58af5bd4, type: 2}
+      objectReference: {fileID: 2100000, guid: 60c1916177efc4049aac6b694d97df68, type: 2}
+    - target: {fileID: 224950280511103986, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -385.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 224950280511103986, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: 751.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 224950280511103986, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: -62.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224950280511103986, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: 328.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 224199881849173802, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224199881849173802, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: 185
+      objectReference: {fileID: 0}
+    - target: {fileID: 224199881849173802, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 224199881849173802, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: 324.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 114590066688939172, guid: bbae36c097999a944987b8a4af1c8179,
+        type: 2}
+      propertyPath: m_FontData.m_Alignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4202109632013488, guid: bbae36c097999a944987b8a4af1c8179, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4202109632013488, guid: bbae36c097999a944987b8a4af1c8179, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4202109632013488, guid: bbae36c097999a944987b8a4af1c8179, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 4202109632013488, guid: bbae36c097999a944987b8a4af1c8179, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4202109632013488, guid: bbae36c097999a944987b8a4af1c8179, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: bbae36c097999a944987b8a4af1c8179, type: 2}
   m_IsPrefabParent: 0
---- !u!224 &1507916885 stripped
-RectTransform:
-  m_PrefabParentObject: {fileID: 224950280511103986, guid: bbae36c097999a944987b8a4af1c8179,
-    type: 2}
-  m_PrefabInternal: {fileID: 1507916884}
 --- !u!1 &1507916886 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1522684473791080, guid: bbae36c097999a944987b8a4af1c8179,
@@ -2157,7 +2270,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Explore the Theater
+  m_Text: Mother Edwidge Woldson Dies
 --- !u!222 &1580042161
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2558,77 +2671,3 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!1 &2112089599
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
-  m_Component:
-  - component: {fileID: 2112089600}
-  - component: {fileID: 2112089602}
-  - component: {fileID: 2112089601}
-  m_Layer: 5
-  m_Name: Text
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &2112089600
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2112089599}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 492476377}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 264.5, y: -178.6}
-  m_SizeDelta: {x: 160, y: 30}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &2112089601
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2112089599}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 10
-    m_MaxSize: 40
-    m_Alignment: 0
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: New Text
---- !u!222 &2112089602
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2112089599}
